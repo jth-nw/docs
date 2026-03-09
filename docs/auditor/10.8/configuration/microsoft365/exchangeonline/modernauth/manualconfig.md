@@ -26,7 +26,7 @@ General Requirements
   [Download .NET Framework 4.7.1](https://dotnet.microsoft.com/download/dotnet-framework/net471)
 
 **NOTE:** If you have the FIPS option enabled you should proceed to Manual Exchange Online
-pre-configuration. See the Configure Exchange Online Modern Authentication Manuallysection for
+pre-configuration. See the Configure Exchange Online Modern Authentication Manually section for
 additional information.
 
 Follow the steps to enable Exchange Online Auto Audit for mailboxes with Modern Authentication
@@ -133,7 +133,7 @@ Follow the steps to install the certificate to the CurrentUser/My certificate fo
 **Step 1 –** Download [PsExec](https://docs.microsoft.com/en-us/sysinternals/downloads/psexec) to
 run Windows PowerShell session under the LocalSystem account;
 
-**Step 2 –** Run Windows PowerShell as an Administrator, navigate to to PsExec.exe installation
+**Step 2 –** Run Windows PowerShell as an Administrator, navigate to PsExec.exe installation
 directory (use the 'CD' command), if necessary, and run the following command:
 
 ```
